@@ -1,1 +1,1 @@
-## Miniclonde Giphy
+## Miniclone Giphy
